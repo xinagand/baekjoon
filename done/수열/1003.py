@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/1003 피보나치 함수
+# 수열
 
 import sys
 sys.stdin = open('input.txt')
